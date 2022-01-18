@@ -178,6 +178,8 @@ aside{
     padding: 10px;
     border-radius: 10px;
 }
+
+}
 aside > h3{
     background-color: var(--cor3);
     color: white;
